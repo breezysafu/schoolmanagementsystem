@@ -10,3 +10,9 @@ RewriteRule . /wordPress/schoolmanagementsystem/index.php [L]
 </IfModule>
 
 # END WordPress
+
+php_value upload_max_filesize 256M
+	# WP Increse Maximum Execution Time
+	<IfModule mod_php5.c>
+		php_value max_execution_time 300
+	</IfModule>

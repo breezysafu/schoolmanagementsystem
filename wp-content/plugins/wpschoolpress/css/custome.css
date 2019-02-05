@@ -1,0 +1,213 @@
+.ui-pnotify-sticker{
+    display: none !important;
+}
+.alert-success {
+    color: #3c763d !important;
+    background-color: #dff0d8 !important;
+    border-color: #d6e9c6 !important;}
+.btn-bs-file{position:relative;}
+.btn-bs-file input[type="file"]{ position: absolute; top: -9999999;filter: alpha(opacity=0);opacity: 0;width:0;height:0;outline: none;cursor: inherit;}
+.line_box{ border: 1px solid #0089DA; padding: 20px;}
+.btn-primary { background-color: #0089DA; border-color: #0089DA;}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.hover { background-color: #286090; border-color: #204d74; }
+.content-header { background: #fcfcfc !important; border: 1px solid #ddd; margin: 15px 15px 15px 0px; padding:10px; border-radius: 4px; margin-bottom:2px}
+.gap-bottom{ margin-bottom:15px;}
+.gap-top{ margin-bottom:15px;}
+.gap-top-bottom{ margin-top:15px; margin-bottom:15px; }
+div#message-list_length { margin: 15px;}
+.skin-blue .sidebar-menu > li:hover > a, .skin-blue .sidebar-menu > li.active > a { color: #fff;background: #3c8dbc; border-color: #3c8dbc; }
+.skin-blue .sidebar a { color: #fff;}
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side { background-color: #1E282C;}
+.skin-blue .user-panel > .info, .skin-blue .user-panel > .info > a { color: #fff; }
+#formresponse { width: auto; display: inline-block;}
+.formresponse { width: auto; display: inline-block;}
+#editformresponse{ width: auto; display: inline-block;}
+.content-header > .breadcrumb {top: 5px; }
+.skin-blue .main-header .navbar { background-color: #3c8dbc;}
+.skin-blue .main-header .logo { background-color: #367fa9;}
+.customUpload span { font-size:15px; }
+.customUpload { margin-left: 0px;}
+.form-grou label { display: inline-block; max-width: 100%; margin-bottom: 5px; font-weight: 700; font-size: 13px; }
+#ViewModal .modal.modal-wide .modal-dialog { width: 50%;}
+/* .box-footer .line_box .col-md-12 label.btnM { font-size: 16px; color: #fff;} */
+form#TeacherEditForm .line_box .col-md-12 .text-center .btnM { font-size: 13px; }
+.box-info .box-footer .btn-success { background-color: #0089da; border-color: #0089da;}
+/* .box-info .box-footer .btn-default { background-color: #0089DA; border-color: #0089DA; color:#fff;} */
+.box-info .box-footer .btn-default:hover {background-color: #0089DA; border-color: #0089DA; border-color: #0089da; color:#fff; }
+.small-box .icon { font-size: 68px; display: inline-block;}
+.small-box .icon:hover { font-size: 68px; }
+.small-box > .inner { padding: 15px;}
+.small-box p { font-size: 15px;  margin: 0px;}
+.small-box h3 { margin: 0 0 18px 0; }
+.box-title{ margin-top:5px; }
+label#Name-error { margin-bottom: 0px;}
+.sidebar{
+	overflow-y: auto !important;
+}
+.sidebar::-webkit-scrollbar, .mainchatWrap::-webkit-scrollbar {
+    width: 10px;
+}
+
+.sidebar::-webkit-scrollbar-track, .mainchatWrap::-webkit-scrollbar-track {
+    background: #222;
+}
+
+.sidebar::-webkit-scrollbar-thumb, .mainchatWrap::-webkit-scrollbar-thumb {
+    background: #3C8DBC;
+    opacity:0.6;
+    
+}
+.time-action{
+	
+	margin-left: 20px;
+}
+.gap-all{
+	padding-left: 20px;
+}
+.icn-gap{
+	padding: 10px;
+}
+.all_btn_setting{
+	    padding: 5px !important;
+    margin-top: 25px !important;
+}
+.text-gray{
+    color: grey !important;
+}
+.size-machine{
+    width: 65% !important;
+}
+.SubjectDeleteBt { vertical-align: top;
+    display: inline-block}
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+.update-btn{ margin-top: 10px; }
+.btn-pro.button-group .dropdown { padding-left: 0px !important; padding-right: 5px; margin-bottom: 3px; margin-top: 8px;}
+div.dataTables_length label { width: 100%; }
+.box box-info .box-body .float-left { float: none;}
+.box-body .float-left { float:none; width: 100%;}
+.gap-bottom-small{
+    margin-bottom: 10px;
+}
+.size-machine{
+    width: 100% !important;
+}
+}
+
+
+
+
+
+/* .box-info .box-header .float-left .class-filter select { float: left; width: 38%; }
+.box-info .box-header .class-filter .float-right .wp-edit-timetable .fa-pencil {  padding: 10px 12px 10px 12px; margin-right: 4px; margin-left: 2px; }
+.box-info .box-header .class-filter .float-right .wp-delete-timetable .fa-trash { padding: 10px 12px 10px 12px; margin-right: 4px; margin-left: 2px;}
+table #exam_class_table tbody tr td a.btn{ float:left;}
+.col-md-3 .img-circle { margin: auto; display: block; }
+.off-dates {
+    display: inline-block;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-left: 15px;
+} */
+
+
+
+
+@media only screen and (max-width: 767px) {
+#teacher_table_wrapper{ }
+.box-title { margin-top: 12px; margin-bottom: 12px;}
+section.content-header h1{ margin-bottom:15px; }
+a.sidebar-toggle .gap-academicyear { width: 80%;}
+.main-footer { text-align: center; padding-bottom:20px;}
+div.dataTables_paginate ul.pagination { margin-bottom: 10px; }
+.mailbox-header .wpsp-mail-title h2 { margin-bottom: 10px; }
+#student_table tbody tr td a.ViewStudent, a.viewAttendance { margin-bottom: 10px; display: inline-block;}
+table #class_table tbody tr.pointer td a { margin-bottom:10px; }
+.main-footer { padding: 0px 15px 15px 15px; }
+div.dataTables_filter { text-align: left;}
+#student_table_paginate.dataTables_paginate { white-space: nowrap; text-align: center; margin-bottom:10px; }
+.button-group .btn-pro.button-group .dropdown { padding-left: 0px; }
+.modal.modal-wide .modal-dialog { width: 95% !important;  margin: auto;}
+section.content-header h1 { font-size: 18px; }
+.content-header > .breadcrumb { top: 0px; }
+.main-footer { padding: 0px 15px 5px 15px;}
+.panel-info .panel-body .img-circle { margin: auto; display: inherit;}
+.box-footer .line_box .col-md-12 label.btnM { display: inline-block;  width: 100%;}
+.no-padding{ padding:0px;}
+.dataTables_length label { margin-top: 10px;}
+.box-info .box-body{ margin-top: 15px;}
+.ViewTeacher { margin-bottom: 10px; display: inline-block;}
+div.dataTables_filter label { width: 100%;}
+div.dataTables_filter input { width: 86%;}
+form.class-filter select { float: left; margin-bottom:10px;  }
+tr td a.btn-warning { margin-bottom: 10px; }
+.ViewParent {  margin-bottom: 10px; display: inline-block;}
+.class-filter{ display:inline-block; width:100%; }
+a.add-parent { margin-bottom:15px; }
+/* .text-right .btn-primary { margin-right: 5px;} */
+.box-footer .btn-info { margin-right: 15px; }
+.add-parent-btn { width: 100%; margin-top: 10px; display: inline-block; text-align: center;}
+
+
+.change-password { float:none; }
+.ui-tooltip { z-index:0; }
+.panel-info { z-index:1px; }
+.viewMess { margin-bottom: 10px; display: block; }
+.add-teacher-btn{ margin-bottom:10px !important; margin-top:10px !important; margin-right: 10px !important; }
+.edit-btn, .notify-view, .ViewTrans, .EditTrans { margin-bottom:10px; display: inline-block;}
+
+.gap-all { padding-left:0px; }
+
+}
+#dashboard-widgets .response {
+    color: green;
+    display: table;
+    margin: 20px 0;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+@media only screen and (max-width: 1366px) {
+
+.edit-btn, .notify-view, .ViewTrans, .EditTrans {
+    margin-bottom:10px;
+    
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

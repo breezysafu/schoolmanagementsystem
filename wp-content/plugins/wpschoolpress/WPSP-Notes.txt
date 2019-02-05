@@ -1,0 +1,92 @@
+Issues:
+
+
+Task's Pending:
+1. Student/parent login subject details view
+
+
+Target (24-07-2016)
+
+
+
+
+
+
+
+Target ()
+
+
+
+   
+
+
+Target ()
+
+	8. Shortcode for login form
+	9. Testing overall plugin
+	10. Activation code function
+	11. Update plugin function (optional)
+
+
+
+
+
+
+Css Things:
+
+Text Muted-> color: #5f6d8f !important;
+
+
+New Sidebar Background:
+
+ background-color: #191547;
+ 
+
+Full Calendar (Weekend Color)
+
+.fc-sat { color:blue; background-color:#ebebeb }
+.fc-sun { color:red; background-color:#ebebeb  }
+
+
+
+
+Design:
+
+Eventlist at Dashboard Page ( http://bootsnipp.com/snippets/featured/event-list )
+
+Notice -> http://bootsnipp.com/snippets/featured/simple-card-alerts
+
+Frontend-login-> http://bootsnipp.com/snippets/featured/fancy-navbar-login-sign-in-form , http://bootsnipp.com/snippets/featured/full-page-log-in-with-background
+
+Chat->http://bootsnipp.com/snippets/featured/like-hangout-chat
+
+
+
+
+
+
+WPSchoolpress.com -> Reviews Style -> http://bootsnipp.com/snippets/featured/carousel-reviews-with-rating
+ 
+ 
+ * Check and restrict all files cannot be accessed directly.
+ 
+ * Student/Parents details Edit Settings
+	* Any teacher can edit any student/parent detail
+	* Only Class Incharge can edit their class students/parents details
+	* Students/parent can edit their own details
+
+ 
+ * Settings for mark upload.
+	* All teacher can add/edit mark to any class. 
+	* Only subject that he/she handles (Class incharge can handle her all of his/her class).
+ 
+ 
+ /* Capability ((For next Version)  */
+ 
+ 1. Role based access 
+ 2. User lock
+ 3. Excel import/export
+ 4. Fees Module
+ 5. Student Promotion
+
+
